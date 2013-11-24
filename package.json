@@ -1,0 +1,16 @@
+{
+  "name": "jquery-backbone-browserify",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "beefy index.js:bundle.js --live",
+    "build": "browserify index.js -o bundle.js"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "backbone": "~1.1.0",
+    "jquery": "~2.1.0-beta2"
+  }
+}
