@@ -11,6 +11,6 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "backbone": "~1.1.0",
-    "jquery": "~2.1.0-beta2"
+    "jquery": "~2.1.0"
   }
 }
